@@ -7,4 +7,5 @@ Mobile Price Classification
 ## Day2: 28th Nov
 XGBoost [Link1](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/) [Link2](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) [How to use XGBoost with Python](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
 
- 
+ ## Day3: 30th Nov
+ Pytorch Udacity Introduction Lesson 2
