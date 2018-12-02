@@ -13,3 +13,6 @@ XGBoost [Link1](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide
 
 ## Day4: 1st Dec
 Study about [Accuracy Paradox](https://towardsdatascience.com/accuracy-paradox-897a69e2dd9b)
+
+## Day5: 2nd Dec
+Classification Algorithms study: [KNN](https://www.geeksforgeeks.org/k-nearest-neighbours/), [SVC](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/), [K-medoid](https://www.youtube.com/watch?v=cA0FBZE-948)
