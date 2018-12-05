@@ -16,3 +16,9 @@ Study about [Accuracy Paradox](https://towardsdatascience.com/accuracy-paradox-8
 
 ## Day5: 2nd Dec
 Classification Algorithms study: [KNN](https://www.geeksforgeeks.org/k-nearest-neighbours/), [SVC](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/), [K-medoid](https://www.youtube.com/watch?v=cA0FBZE-948)
+
+## Day6: 4th Dec
+Studied About Apriori Algorithm Association rule, How is it different from collaborative filtering?
+Studied about example of market basket analysis.
+
+[Apriori Introduction](https://www.hackerearth.com/blog/machine-learning/beginners-tutorial-apriori-algorithm-data-mining-r-implementation/) [Apriori vs Collaborative filtering](https://stats.stackexchange.com/questions/256012/item-item-collaborative-filtering-vs-market-basket-analysis)
