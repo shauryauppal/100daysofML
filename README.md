@@ -22,3 +22,17 @@ Studied About Apriori Algorithm Association rule, How is it different from colla
 Studied about example of market basket analysis.
 
 [Apriori Introduction](https://www.hackerearth.com/blog/machine-learning/beginners-tutorial-apriori-algorithm-data-mining-r-implementation/) [Apriori vs Collaborative filtering](https://stats.stackexchange.com/questions/256012/item-item-collaborative-filtering-vs-market-basket-analysis)
+
+## Day7: 5th Dec
+Studied about [Spectral Clustering](https://towardsdatascience.com/spectral-clustering-for-beginners-d08b7d25b4d8)
+
+## Day8: 6th Dec
+Studying Natural Language Processing: CFG, CNF, CYK
+CYK tells whether a given sentence can be generated from a given Content free grammer given.
+
+Chomsky Normal Form is conversion from CFG to CNF. In CNF we have productions of form.
+A-> BC
+or A->epsilon
+
+## Day9: 10th Dec
+Cluster Algorithm KMeans, Heirarchical Clustering
