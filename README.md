@@ -36,3 +36,9 @@ or A->epsilon
 
 ## Day9: 10th Dec
 Cluster Algorithm KMeans, Heirarchical Clustering
+
+## Day10: 11th Dec
+Google Crash Course ML
++ [Introduction](https://developers.google.com/machine-learning/crash-course/ml-intro)
++ [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/#rule_1_dont_be_afraid_to_launch_a_product_without_machine_learning)
++ [Framing](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
