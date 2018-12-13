@@ -42,3 +42,10 @@ Google Crash Course ML
 + [Introduction](https://developers.google.com/machine-learning/crash-course/ml-intro)
 + [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/#rule_1_dont_be_afraid_to_launch_a_product_without_machine_learning)
 + [Framing](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
+
+## Day11: 12th Dec
+Worked on Neural Style transfer Project and Watched PyTorch Udacity (Lecture 2)
+Working on Ben10 dataset
+
+## Day12: 13th Dec
+PyTorch Udacity Lecture 2 finishing target |
