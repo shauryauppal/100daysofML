@@ -90,3 +90,7 @@ Working on Car Dataset Question.
 
 ## Day17: 23rd Dec
 Udacity PyTorch Lecture 2, neural network finished.
+
+## Day18: 24th Dec
+Udacity Talk on PyTorch
+Lecture 3 finished
