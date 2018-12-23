@@ -48,4 +48,45 @@ Worked on Neural Style transfer Project and Watched PyTorch Udacity (Lecture 2)
 Working on Ben10 dataset
 
 ## Day12: 13th Dec
-PyTorch Udacity Lecture 2 finishing target |
+PyTorch Udacity Lecture 2 continue
+
+## Day13: 15th Dec
+Pytorch Udacity Lecture 2 continue
+
+## Day14: 16th Dec
+[Evaluation metric for Classification](https://www.coursera.org/lecture/machine-learning-with-python/evaluation-metrics-in-classification-5iCQt)
++ Jaccard Index:  JI = |Intersection| / |Union|
+  * JI close to 1 means more similarity
+  * JI close to 0 means less similarity
++ F1-Score = 2* Precision * Recall/ (Precision + Recall)
+  * 1 is Best and 0 is Worst
++ Log Loss: Output of Class Label is Probability instead of categorical.
+  * Log Loss measures the Performance of a classifier where the predicted output is a probability value between 0 or 1.
+  * Log Loss calculated by Log loss equation.
+  * Log Loss = (y * log(y predicted)) + (1-y) * (log(1 - (y predicted)))
+  * Average Log Loss = -1/n * summation((y * log(y predicted)) + (1-y) * (log(1 - (y predicted))))
+  * Lower Log Loss means Best Model and Higher Log Loss value means Poor Model.
+
+  ![LogLoss](ResourceImages/LogLoss.png)
+
+## Day15: 17th Dec
+Working on Car Dataset Question.
++ Shuffle rows of Dataset
+  + `np.random.shuffle(DataFrame.values)`
++ Concat two dataframes
+  + df1
+  + df2
+  + frames = [df1,df2]
+  + result = pd.concat(frames,axis=1)
++ Rename Columns in Pandas
+  + `df.rename(columns={'A':'a'},inplace=True)`
+
+## Day16: 20th Dec
++ Worked on ZigWheels dataset
++ How qcut works?
+  + `pd.qcut(dataset, precision=3, labels=['low','med','high'])`
++ [mean_squared_log_error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_log_error.html)
++ [average_precision_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html#sklearn.metrics.average_precision_score) works on y_true binary and y_scores continous
+
+## Day17: 23rd Dec
+Udacity PyTorch Lecture 2, neural network finished.
