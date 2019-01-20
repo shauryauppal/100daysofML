@@ -93,4 +93,62 @@ Udacity PyTorch Lecture 2, neural network finished.
 
 ## Day18: 24th Dec
 Udacity Talk on PyTorch
-Lecture 3 finished
+Lecture 3 finished.
+
+#### Started Lecture 4, Pytorch
++ Single Layer Neural network
+  * features = torc.rand((1,5)) # createda (1,5) shape tensor
+  * Method 1 :y = activation(torch.sum(features*weights)+bias)
+  * Method 2: weights = weights.view(5,1) # used to reshape a tensor vector
+    + y = activation(torch.mm(features,weights)+bias)
+## Day19: 27th Dec
+Lecture 4 Started
+
+## Day20: 29th Dec
+Lecture 4 Continue
+
+## Day21: 1st Jan
+Lecture 4 Almost finished
+Learned how to Save Weights of a Trained Model.
+![SaveModel](ResourceImages/SaveModel.png)
+
+## Day22: 2nd Jan
+Finished Lecture 4 and Started lecture 5
+CNN chapter start watched videos till Video 14.
+
+## Day23/24/25: 4th Jan - 6th Jan
+PyTorch Project on Google Colab Started.
++ [Google Colab File FlowerClassification](https://colab.research.google.com/drive/11Q0KV4g8R_ZhNveLoBtO8BxUjwuRm2kR)
++ [Model Link](https://drive.google.com/file/d/1mCt6QsGzazJUiSEZ8aNW3eYwQQ9VWM2j/view?usp=sharing)
+
+## Day26: 10th Jan
+R programming Decision Tree, PCA, NaiveBayes, Linear Regression
+
+## Day27: 20th Jan
+Artcile on Feature Selection
++ [Link](https://towardsdatascience.com/why-how-and-when-to-apply-feature-selection-e9c69adfabf2)
+
++ [Correlation Method](https://towardsdatascience.com/why-feature-correlation-matters-a-lot-847e8ba439c4)
+
++ [Techniques](https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e)
+
+[Difference B/W Covariance and Correlation](https://keydifferences.com/difference-between-covariance-and-correlation.html)
+
+### Feature Selection [VERY IMPORTANT TOPIC]:
+Why is feature selection Important?
++ Training time increases exponentially with number if features.
++ Models have increasing risk of overfitting with increasing number of features.
+
+Feature selection Techniques
+1. Filter methods
+2. Wrapper methods
+3. Embedded methods
+
+#### Filter methods
+Filter method considers the relationship b/w features and the target variable to compute the importance of features.
+
+#### Wrapper methods
+Wrapper Methods generate models with a subsets of feature and gauge their model performances.
+
+#### Embedded Methods
+Feature selection by insights provided by some Machine Learning Model.
