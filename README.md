@@ -134,10 +134,10 @@ Artcile on Feature Selection
 
 [Difference B/W Covariance and Correlation](https://keydifferences.com/difference-between-covariance-and-correlation.html)
 
-### Feature Selection [VERY IMPORTANT TOPIC]:
+### Feature Selection [ VERY IMPORTANT TOPIC ]:
 Why is feature selection Important?
-+ Training time increases exponentially with number if features.
-+ Models have increasing risk of overfitting with increasing number of features.
++   Training time increases exponentially with number if features.
++   Models have increasing risk of overfitting with increasing number of features.
 
 Feature selection Techniques
 1. Filter methods
@@ -152,3 +152,26 @@ Wrapper Methods generate models with a subsets of feature and gauge their model 
 
 #### Embedded Methods
 Feature selection by insights provided by some Machine Learning Model.
+
+## Day28: 24th Jan
+### Loss Functions:- [Loss Functions](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
+
+### How to determine the value of K in clustering problems?
++   [3 Methods: Elbow Method, Average Silhouette method, Gap statistic method](https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/)
++   [Resource Link2](http://www2.stat.duke.edu/~rcs46/lectures_2017/10-unsupervise/10-specify-clusters.pdf)
++   [Gap statistic](https://datasciencelab.wordpress.com/tag/gap-statistic/)
+
+### What causes overfitting, How to prevent it?
++   Overfitting causes: Too many features, High epochs training with validation loss, many hidden layers, Good Performance in training set and poor generalization in test set.
++   [What is it?](https://www.geeksforgeeks.org/underfitting-and-overfitting-in-machine-learning/)
++   [Conceptual Explaination](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)
++   [Deep learning and overfitting](https://towardsdatascience.com/deep-learning-3-more-on-cnns-handling-overfitting-2bd5d99abe5d)
+
+### What is SVD(Singular value decomposition)?
++   Mainly used for matrix decomposition
++   Mostly used in Recommendation systems.
++   [SVD link1](https://medium.com/the-andela-way/foundations-of-machine-learning-singular-value-decomposition-svd-162ac796c27d)
++   [SVD link2](https://medium.com/data-science-group-iitr/singular-value-decomposition-elucidated-e97005fb82fa)
++   [SVD MIT tutorial](http://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm)
++   [BEST explaination SVD](https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254)
++   [Working and calculation Video](https://www.youtube.com/watch?v=mBcLRGuAFUk)
