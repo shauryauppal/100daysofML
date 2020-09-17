@@ -175,3 +175,12 @@ Feature selection by insights provided by some Machine Learning Model.
 +   [SVD MIT tutorial](http://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm)
 +   [BEST explaination SVD](https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254)
 +   [Working and calculation Video](https://www.youtube.com/watch?v=mBcLRGuAFUk)
+
+## Day30: 17th Sept 2020
++ Learning about Ranking Problems with MCDA or MCDM.
++ Understanding how MCDM works with Research Paper [LINK](https://sci-hub.tw/https://link.springer.com/chapter/10.1007/978-1-4757-3157-6_2)
++ Studied WSM, WPM, AHP, ELECTRE, TOPSIS and MOORA
++ Basics of MCDA [Youtube Video](https://www.youtube.com/watch?v=7OoKJHvsUbo&ab_channel=HealthOutcomesStrats)
+
+## Day31: 18th Sept 2020
++ Study Comparative Analysis of MCDA techniques [LINK1](http://www.theijes.com/papers/v2-i6/Part.4/D0364027034.pdf) | [LINK2](http://www.orstw.org.tw/ijor/vol10no2/ijor_vol10_no2_p56_p66.pdf)
