@@ -184,3 +184,42 @@ Feature selection by insights provided by some Machine Learning Model.
 
 ## Day31: 18th Sept 2020
 + Study Comparative Analysis of MCDA techniques [LINK1](http://www.theijes.com/papers/v2-i6/Part.4/D0364027034.pdf) | [LINK2](http://www.orstw.org.tw/ijor/vol10no2/ijor_vol10_no2_p56_p66.pdf)
+
+## Study Data Science Interview From Scratch:
+1. Linear Regression: https://medium.com/datadreamsdragons/algorithms-the-pillars-of-data-science-72543d0e1473
+2. Optimisation Algorithms: https://machinelearningmastery.com/tour-of-optimization-algorithms/
+3. Optimisation other than gradient descent: https://stats.stackexchange.com/questions/97014/what-are-alternatives-of-gradient-descent
+4. Logistic Regression: https://medium.com/datadreamsdragons/part-iii-logistic-regression-4a024c896ed
+5. Encoders in Data science: https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
+6. Multi-Class Classification Softmax: https://towardsdatascience.com/multiclass-classification-with-softmax-regression-explained-ea320518ea5d
+7. Maximum LikeliHood: https://www.youtube.com/watch?v=XepXtl9YKwc&vl=en&ab_channel=StatQuestwithJoshStarmer
+8. Maximum Likelihood for Normal Distribution: https://www.youtube.com/watch?v=Dn6b9fCIUpM&ab_channel=StatQuestwithJoshStarmer
+9. Naive Bayes Classifier: https://www.youtube.com/watch?v=jS1CKhALUBQ&ab_channel=KrishNaik
+10. AUC-ROC Curve: https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+11. AUC-ROC video: https://www.youtube.com/watch?v=4jRBRDbJemM&ab_channel=StatQuestwithJoshStarmer
+12. MultiLabel Classification: https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
+13. One-vs-All or One-vs-One: https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/
+14. Adaptive Method (ML-kNN) || Multi Label Classification: https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/pr07.pdf
+15. Ensemble Method for MultiLabel Classification - Random K-Label (RAKEL) Algorithm: https://www.youtube.com/watch?v=_7v_1UvaPr4&ab_channel=RANJIRAJ
+16. k-Fold Cross Validation: https://www.youtube.com/watch?v=fSytzGwwBVw&ab_channel=StatQuestwithJoshStarmer
+17. Handle Unfitting: https://medium.datadriveninvestor.com/how-to-handle-overfitting-and-underfitting-470a1f7389fe
+18. Ridge Regression (L2 Regularisation): https://www.youtube.com/watch?v=Q81RR3yKn30&ab_channel=StatQuestwithJoshStarmer
+19. Lasso Regression (L2 Regularisation): https://www.youtube.com/watch?v=NGf0voTMlcs&ab_channel=StatQuestwithJoshStarmer
+20. Decision Tree: https://medium.com/datadreamsdragons/part-iv-decision-trees-4992e2038a00
+21. Regressor Trees & Avoid Ovefit with Min. Split Concept[Important]: https://www.youtube.com/watch?v=g9c66TUylZ4&ab_channel=StatQuestwithJoshStarmer
+22. Regressor Tree, How to Prune?: https://www.youtube.com/watch?v=D0efHEJsfHo&ab_channel=StatQuestwithJoshStarmer
+23. Bagging (Random Forest I): https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk&ab_channel=StatQuestwithJoshStarmer
+24. Bagging (Random Forest II):  
+25. Boosting:
+26. Stacking:
+27. RAKEL Algorithm | Multi-Label Classification: 
+28. Covariance vs Correlation: 
+29. LDA:
+30. PCA:
+31. SVM:
+32. Collaborative Filtering:
+33. Word2vec:
+34. TFIDF:
+35. BERT:
+36. Negative Sampling: 
+38. Weight of Evidence and IV: 
