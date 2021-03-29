@@ -210,16 +210,19 @@ Feature selection by insights provided by some Machine Learning Model.
 22. Regressor Tree, How to Prune?: https://www.youtube.com/watch?v=D0efHEJsfHo&ab_channel=StatQuestwithJoshStarmer
 23. Bagging (Random Forest I): https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk&ab_channel=StatQuestwithJoshStarmer
 24. Bagging (Random Forest II):  
-25. Boosting:
-26. Stacking:
-27. RAKEL Algorithm | Multi-Label Classification: 
-28. Covariance vs Correlation: 
-29. LDA:
-30. PCA:
-31. SVM:
-32. Collaborative Filtering:
-33. Word2vec:
-34. TFIDF:
-35. BERT:
-36. Negative Sampling: 
-38. Weight of Evidence and IV: 
+25. Covariance vs Correlation: 
+26. Hypothesis Testing:
+27. Chi-Square Test:
+28. Boosting:
+29. Stacking:
+30. RAKEL Algorithm | Multi-Label Classification: 
+31. 
+32. LDA:
+33. PCA:
+34. SVM:
+35. Collaborative Filtering:
+36. Word2vec:
+37. TFIDF:
+38. BERT:
+39. Negative Sampling: 
+40. Weight of Evidence and IV: 
