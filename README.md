@@ -189,40 +189,41 @@ Feature selection by insights provided by some Machine Learning Model.
 1. Linear Regression: https://medium.com/datadreamsdragons/algorithms-the-pillars-of-data-science-72543d0e1473
 2. Optimisation Algorithms: https://machinelearningmastery.com/tour-of-optimization-algorithms/
 3. Optimisation other than gradient descent: https://stats.stackexchange.com/questions/97014/what-are-alternatives-of-gradient-descent
-4. Logistic Regression: https://medium.com/datadreamsdragons/part-iii-logistic-regression-4a024c896ed
-5. Encoders in Data science: https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
-6. Multi-Class Classification Softmax: https://towardsdatascience.com/multiclass-classification-with-softmax-regression-explained-ea320518ea5d
-7. Maximum LikeliHood: https://www.youtube.com/watch?v=XepXtl9YKwc&vl=en&ab_channel=StatQuestwithJoshStarmer
-8. Maximum Likelihood for Normal Distribution: https://www.youtube.com/watch?v=Dn6b9fCIUpM&ab_channel=StatQuestwithJoshStarmer
-9. Naive Bayes Classifier: https://www.youtube.com/watch?v=jS1CKhALUBQ&ab_channel=KrishNaik
-10. AUC-ROC Curve: https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
-11. AUC-ROC video: https://www.youtube.com/watch?v=4jRBRDbJemM&ab_channel=StatQuestwithJoshStarmer
-12. MultiLabel Classification: https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
-13. One-vs-All or One-vs-One: https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/
-14. Adaptive Method (ML-kNN) || Multi Label Classification: https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/pr07.pdf
-15. Ensemble Method for MultiLabel Classification - Random K-Label (RAKEL) Algorithm: https://www.youtube.com/watch?v=_7v_1UvaPr4&ab_channel=RANJIRAJ
-16. k-Fold Cross Validation: https://www.youtube.com/watch?v=fSytzGwwBVw&ab_channel=StatQuestwithJoshStarmer
-17. Handle Unfitting: https://medium.datadriveninvestor.com/how-to-handle-overfitting-and-underfitting-470a1f7389fe
-18. Ridge Regression (L2 Regularisation): https://www.youtube.com/watch?v=Q81RR3yKn30&ab_channel=StatQuestwithJoshStarmer
-19. Lasso Regression (L2 Regularisation): https://www.youtube.com/watch?v=NGf0voTMlcs&ab_channel=StatQuestwithJoshStarmer
-20. Decision Tree: https://medium.com/datadreamsdragons/part-iv-decision-trees-4992e2038a00
-21. Regressor Trees & Avoid Ovefit with Min. Split Concept[Important]: https://www.youtube.com/watch?v=g9c66TUylZ4&ab_channel=StatQuestwithJoshStarmer
-22. Regressor Tree, How to Prune?: https://www.youtube.com/watch?v=D0efHEJsfHo&ab_channel=StatQuestwithJoshStarmer
-23. Bagging (Random Forest I): https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk&ab_channel=StatQuestwithJoshStarmer
-24. Bagging (Random Forest II):  
-25. Covariance vs Correlation: 
-26. Hypothesis Testing:
-27. Chi-Square Test:
-28. Boosting:
-29. Stacking:
-30. RAKEL Algorithm | Multi-Label Classification: 
-31. 
-32. LDA:
-33. PCA:
-34. SVM:
-35. Collaborative Filtering:
-36. Word2vec:
-37. TFIDF:
-38. BERT:
-39. Negative Sampling: 
-40. Weight of Evidence and IV: 
+4. AUC-ROC Curve: https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+5. AUC-ROC video: https://www.youtube.com/watch?v=4jRBRDbJemM&ab_channel=StatQuestwithJoshStarmer
+6. Logistic Regression: https://medium.com/datadreamsdragons/part-iii-logistic-regression-4a024c896ed
+7. Logistic Regression: [Find Best Threshold; A Gentle Introduction to Threshold-Moving for Imbalanced Classification](https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/)
+8. Encoders in Data science: https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
+9. Multi-Class Classification Softmax: https://towardsdatascience.com/multiclass-classification-with-softmax-regression-explained-ea320518ea5d
+10. Maximum LikeliHood: https://www.youtube.com/watch?v=XepXtl9YKwc&vl=en&ab_channel=StatQuestwithJoshStarmer
+11. Maximum Likelihood for Normal Distribution: https://www.youtube.com/watch?v=Dn6b9fCIUpM&ab_channel=StatQuestwithJoshStarmer
+12. Naive Bayes Classifier: https://www.youtube.com/watch?v=jS1CKhALUBQ&ab_channel=KrishNaik
+13. MultiLabel Classification: https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
+14. One-vs-All or One-vs-One: https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/
+15. Adaptive Method (ML-kNN) || Multi Label Classification: https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/pr07.pdf
+16. Ensemble Method for MultiLabel Classification - Random K-Label (RAKEL) Algorithm: https://www.youtube.com/watch?v=_7v_1UvaPr4&ab_channel=RANJIRAJ
+17. k-Fold Cross Validation: https://www.youtube.com/watch?v=fSytzGwwBVw&ab_channel=StatQuestwithJoshStarmer
+18. Handle Unfitting: https://medium.datadriveninvestor.com/how-to-handle-overfitting-and-underfitting-470a1f7389fe
+19. Ridge Regression (L2 Regularisation): https://www.youtube.com/watch?v=Q81RR3yKn30&ab_channel=StatQuestwithJoshStarmer
+20. Lasso Regression (L2 Regularisation): https://www.youtube.com/watch?v=NGf0voTMlcs&ab_channel=StatQuestwithJoshStarmer
+21. Decision Tree: https://medium.com/datadreamsdragons/part-iv-decision-trees-4992e2038a00
+22. Regressor Trees & Avoid Ovefit with Min. Split Concept[Important]: https://www.youtube.com/watch?v=g9c66TUylZ4&ab_channel=StatQuestwithJoshStarmer
+23. Regressor Tree, How to Prune?: https://www.youtube.com/watch?v=D0efHEJsfHo&ab_channel=StatQuestwithJoshStarmer
+24. Bagging (Random Forest I): https://www.youtube.com/watch?v=J4Wdy0Wc_xQ&list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk&ab_channel=StatQuestwithJoshStarmer
+25. Bagging (Random Forest II):  
+26. Covariance vs Correlation: 
+27. Hypothesis Testing:
+28. Chi-Square Test:
+29. Boosting:
+30. Stacking:
+31. RAKEL Algorithm | Multi-Label Classification: 
+32. 
+33. LDA:
+34. PCA:
+35. SVM:
+36. Collaborative Filtering:
+37. Word2vec:
+38. TFIDF:
+39. BERT:
+40. Negative Sampling: 
+41. Weight of Evidence and IV: 
